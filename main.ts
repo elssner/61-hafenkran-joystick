@@ -5,6 +5,12 @@ input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
 input.onButtonEvent(Button.AB, input.buttonEventClick(), function () {
     qwiicjoystick.clearButtonStatus(qwiicjoystick.qwiicjoystick_eADDR(qwiicjoystick.eADDR.Joystick_x20))
 })
+function kranjoystick61 () {
+    i2c.comment("Erweiterungen")
+    i2c.comment("radio")
+    i2c.comment("calliope-net/i2c")
+    i2c.comment("calliope-net/joystick")
+}
 input.onButtonEvent(Button.B, input.buttonEventClick(), function () {
     motor = 2
     basic.showNumber(motor)
