@@ -1,14 +1,5 @@
 
-> Diese Seite bei [https://elssner.github.io/61-hafenkran-joystick/](https://elssner.github.io/61-hafenkran-joystick/) öffnen
-
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/elssner/61-hafenkran-joystick** suchen und importieren
+> Diese Seite bei [https://elssner.github.io/kran-joystick-61/](https://elssner.github.io/kran-joystick-61/) öffnen
 
 ## Dieses Projekt bearbeiten
 
@@ -16,7 +7,7 @@ Um dieses Repository in MakeCode zu bearbeiten.
 
 * öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/elssner/61-hafenkran-joystick** ein und klicke auf Importieren
+* füge **elssner/kran-joystick-61** ein und klicke auf Importieren
 
 #### Metadaten (verwendet für Suche, Rendering)
 
