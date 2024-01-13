@@ -6,8 +6,7 @@
         "core": "*",
         "v1": "*",
         "joystick": "github:calliope-net/joystick#v2.0.5",
-        "radio": "*",
-        "i2c": "github:calliope-net/i2c#v2.1.1"
+        "radio": "*"
     },
     "files": [
         "main.blocks",

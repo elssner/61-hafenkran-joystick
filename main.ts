@@ -6,9 +6,8 @@ input.onButtonEvent(Button.AB, input.buttonEventClick(), function () {
     qwiicjoystick.clearButtonStatus(qwiicjoystick.qwiicjoystick_eADDR(qwiicjoystick.eADDR.Joystick_x20))
 })
 function kranjoystick61 () {
-    qwiicjoystick.comment("Erweiterungen")
+    qwiicjoystick.comment("2 Erweiterungen")
     qwiicjoystick.comment("radio")
-    qwiicjoystick.comment("calliope-net/i2c")
     qwiicjoystick.comment("calliope-net/joystick")
 }
 input.onButtonEvent(Button.B, input.buttonEventClick(), function () {
